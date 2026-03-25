@@ -30,8 +30,6 @@ https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 https://iptv36.vercel.app/api/true.m3u8?channel=true4u
 #EXTINF:-1 tvg-chno="25" tvg-id="iptv36.gmm25" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/gmm25.png",GMM25 FHD
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
-#EXTINF:-1 tvg-chno="26" tvg-id="iptv36.blank" group-title="Blank" tvg-logo="https://iptv36.vercel.app/logo/blank.jpg",Blank CH 26
-https://iptv36.vercel.app/nosignal.m3u8?ch=blank26
 #EXTINF:-1 tvg-chno="27" tvg-id="iptv36.ch8" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/ch8.png",CH8 HD
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 #EXTINF:-1 tvg-chno="28" tvg-id="iptv36.mono29" group-title="Thai Free TV" tvg-logo="https://iptv36.vercel.app/logo/mono29.png?v=3",MONO29 Soundtrack FHD
